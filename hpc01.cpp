@@ -1,4 +1,3 @@
-// Compile with: g++ -std=c++11 -fopenmp main.cpp -o bfs_dfs_omp
 
 #include <iostream>
 #include <vector>
